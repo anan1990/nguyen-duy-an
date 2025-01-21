@@ -26,11 +26,17 @@ This project is a CRUD API for managing users, built with Express.js, TypeScript
    npm start
    ```
 
-### API Documentation
+## API Documentation
 
 The API documentation is available at `/api-docs` once the server is running. It is generated using Swagger.
 
-### Project Structure
+## Table of Contents
+
+1. [Project Structure](#project-structure)
+2. [Scripts](#scripts)
+3. [License](#license)
+
+## Project Structure
 
 ```
 express-ts-crud/
@@ -49,11 +55,11 @@ express-ts-crud/
 └── README.md               # Project documentation
 ```
 
-### Scripts
+## Scripts
 
 - `npm start`: Starts the server using `ts-node`.
 - `npm run build`: Compiles the TypeScript code to JavaScript.
 
-### License
+## License
 
 This project is licensed under the MIT License.
